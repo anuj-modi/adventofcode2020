@@ -1,6 +1,7 @@
 mod one;
+mod three;
 mod two;
 
 fn main() {
-    two::solve();
+    three::solve();
 }
